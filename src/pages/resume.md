@@ -23,9 +23,9 @@ _Class of 2021, B.S. in Mathematics_
 
 ## Contact
 
-**Preferred Name**: Raine Godmaire
+**Name**: Devon Tingley
 
-**Legal Name**: Devon Tingley
+**Pseudonym**: Raine Godmaire
 
 **Email**: [me@raine.ing](mailto:me@raine.ing)
 
