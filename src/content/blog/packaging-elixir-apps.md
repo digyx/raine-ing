@@ -1,6 +1,6 @@
 ---
 title: "Packaging Elixir Applications"
-description: How to release Elixir apps
+description: Packaging Elixir with Docker
 pubDatetime: 2023-02-15T00:00:00Z
 modDatetime: 2023-03-26T00:00:00Z
 
