@@ -32,6 +32,11 @@ export default defineConfig({
     },
   },
   vite: {
+    server: {
+      watch: {
+        ignored: ["**/.devenv/**"],
+      },
+    },
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
