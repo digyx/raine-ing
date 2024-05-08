@@ -44,6 +44,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Name                                               | Rating | Status              |
 | -------------------------------------------------- | ------ | ------------------- |
 | Bocchi the Rock!                                   | 10     | S1                  |
+| Madoka Magica                                      | 10     | S1                  |
 | Your Lie In April                                  | 10     | Complete            |
 | Kaguya-Sama                                        | 10     | S3 + Movie          |
 | Frieren                                            | 10     | S1                  |
