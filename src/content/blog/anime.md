@@ -2,7 +2,7 @@
 title: Every Anime I've Ever Seen
 description: Ranked and rated.
 pubDatetime: 1970-1-01T00:00:00Z
-modDatetime: 2024-03-30T17:17:47Z
+modDatetime: 2024-05-15T00:00:00Z
 featured: true
 tags:
   - other
@@ -87,19 +87,20 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Horimiya                                           | 8      | Complete            |
 | Konosuba                                           | 7      | S2 + Movie          |
 | Hyouka                                             | 7      | S1                  |
-| My Happy Marriage                                  | 7      | S1                  |
+| Urusei Yatsura                                     | 8      | S2                  |
 | That Time I Got Reincarnated as a Slime            | 8      | S2                  |
 | Ascendance of a Bookworm                           | 8      | S3                  |
 | Domestic Girlfriend                                | 6      | S1 (finished manga) |
+| My Happy Marriage                                  | 7      | S1                  |
 | Little Witch Academia                              | 9      | Complete            |
 | Kill La Kill                                       | 7      | Complete            |
 | 7th Time Loop                                      | 7      | S1                  |
 | Slime Diaries                                      | 8      | S1                  |
 | I'm in Love With the Villainess                    | 7      | S1                  |
-| Birdie Wing                                        | 6      | Complete            |
 | Magical Revolution of the Reincarnated Princess    | 7      | S1                  |
-| Urusei Yatsura                                     | 7      | S2                  |
 | Don't Mess With Me Miss Nagatoro                   | 7      | S2                  |
+| Flip Flappers                                      | 6      | Complete            |
+| Birdie Wing                                        | 6      | Complete            |
 | Yuri is my Job                                     | 6      | S1                  |
 | Raven of the Inner Palace                          | 7      | S1                  |
 | Chained Solider                                    | 6      | S1                  |
@@ -136,6 +137,14 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Reborn to Master the Blade                         | 3      | S1                  |
 
 # Season Recaps
+
+## Spring 2024
+
+### Other Shows
+
+**Madoka Magica**: Peak is peak, what can I say? Please _DO NOT_ watch the 1st and 2nd movie. Watch the anime instead.
+
+**Flip Flappers**: Not my cup of tea. The series felt a bit too campy(?) and slightly rushed. Most of the characters were incredibly well done, especially Yayaka, but the pin haired doctor, the fucking robot, and, sadly, Papika just didn't mesh with me. I'm not a fan of "happy go lucky" or these types of over exaggerated characters. Episodes 9-12 were incredible, but it took until episode 6 for me to get invested, and the last episode felt quite rushed.
 
 ## Winter 2024
 
