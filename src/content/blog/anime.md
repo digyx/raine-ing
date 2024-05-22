@@ -76,16 +76,17 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Skip and Loafer                                    | 8      | S1                  |
 | Blue Period                                        | 8      | S1                  |
 | Soul Eater                                         | 8      | Complete            |
+| Konosuba                                           | 7      | S2 + Movie          |
 | Akiba Maid War                                     | 8      | Complete            |
 | Zom 100                                            | 8      | S1                  |
 | Vivy: Fluorite Eye's Song                          | 8      | Complete            |
 | Re:Creators                                        | 8      | Complete            |
 | Stardust Telepath                                  | 8      | S1                  |
+| Eminence in Shadow                                 | 8      | S2                  |
 | Tomo-Chan is a Girl                                | 8      | S1                  |
-| Eminence in Shadow                                 | 8      | S1                  |
-| Komi-san                                           | 8      | S1                  |
+| Wotakoi                                            | 7      | S1                  |
 | Horimiya                                           | 8      | Complete            |
-| Konosuba                                           | 7      | S2 + Movie          |
+| Komi-san                                           | 8      | S1                  |
 | Hyouka                                             | 7      | S1                  |
 | Urusei Yatsura                                     | 8      | S2                  |
 | That Time I Got Reincarnated as a Slime            | 8      | S2                  |
@@ -143,6 +144,8 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 ### Other Shows
 
 **Madoka Magica**: Peak is peak, what can I say? Please _DO NOT_ watch the 1st and 2nd movie. Watch the anime instead.
+
+**Wotakoi**: Cute and well done, but there's not much plot. More episodic in nature, and the story isn't moving towards an objective. If you like cute romance, this good. If you look good story, this is not that.
 
 **Flip Flappers**: Not my cup of tea. The series felt a bit too campy(?) and slightly rushed. Most of the characters were incredibly well done, especially Yayaka, but the pin haired doctor, the fucking robot, and, sadly, Papika just didn't mesh with me. I'm not a fan of "happy go lucky" or these types of over exaggerated characters. Episodes 9-12 were incredible, but it took until episode 6 for me to get invested, and the last episode felt quite rushed.
 
