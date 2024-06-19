@@ -81,12 +81,12 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Zom 100                                            | 8      | S1                  |
 | Vivy: Fluorite Eye's Song                          | 8      | Complete            |
 | Re:Creators                                        | 8      | Complete            |
+| Komi-san                                           | 8      | S2                  |
 | Stardust Telepath                                  | 8      | S1                  |
 | Eminence in Shadow                                 | 8      | S2                  |
 | Tomo-Chan is a Girl                                | 8      | S1                  |
 | Wotakoi                                            | 7      | S1                  |
 | Horimiya                                           | 8      | Complete            |
-| Komi-san                                           | 8      | S1                  |
 | Hyouka                                             | 7      | S1                  |
 | Urusei Yatsura                                     | 8      | S2                  |
 | That Time I Got Reincarnated as a Slime            | 8      | S2                  |
@@ -142,6 +142,8 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 ## Spring 2024
 
 ### Other Shows
+
+**Komi Can't Communicate S2**: _Much_ better than season 1. Not only is the romance moving forward, but the cast of characters is becoming genuinely interesting and breaking past stereotypes. The humour is also steadily improving, with the last few episodes being genuinely hilarious. I do wish they didn't do the narrator spiel about communication disorders in the beginning; yes, yes, we get it.
 
 **Madoka Magica**: Peak is peak, what can I say? Please _DO NOT_ watch the 1st and 2nd movie. Watch the anime instead.
 
