@@ -68,15 +68,16 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Spy x Family                                       | 9      | S1                  |
 | The 100 Girlfriend Who Really<sup>5</sup> Love You | 9      | S1                  |
 | Heavenly Delusion                                  | 9      | S1                  |
+| Konosuba                                           | 7      | S3                  |
 | Hell's Paradise                                    | 8      | S1                  |
 | Houseki No Kuni                                    | 7      | S1                  |
 | Ouran High School Host Club                        | 9      | Complete            |
+| Yuru Camp                                          | 9      | S3                  |
 | Zombieland Saga                                    | 8      | S2                  |
 | Yamada-kun to Lvl 999                              | 8      | S1                  |
 | Skip and Loafer                                    | 8      | S1                  |
 | Blue Period                                        | 8      | S1                  |
 | Soul Eater                                         | 8      | Complete            |
-| Konosuba                                           | 7      | S2 + Movie          |
 | Akiba Maid War                                     | 8      | Complete            |
 | Zom 100                                            | 8      | S1                  |
 | Vivy: Fluorite Eye's Song                          | 8      | Complete            |
@@ -85,10 +86,10 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Stardust Telepath                                  | 8      | S1                  |
 | Eminence in Shadow                                 | 8      | S2                  |
 | Tomo-Chan is a Girl                                | 8      | S1                  |
+| Urusei Yatsura                                     | 7      | Complete            |
 | Wotakoi                                            | 7      | S1                  |
 | Horimiya                                           | 8      | Complete            |
 | Hyouka                                             | 7      | S1                  |
-| Urusei Yatsura                                     | 8      | S2                  |
 | That Time I Got Reincarnated as a Slime            | 8      | S2                  |
 | Ascendance of a Bookworm                           | 8      | S3                  |
 | Domestic Girlfriend                                | 6      | S1 (finished manga) |
@@ -143,9 +144,15 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 
 ### Other Shows
 
+**Madoka Magica**: Peak is peak, what can I say? Please _DO NOT_ watch the 1st and 2nd movie. Watch the anime instead.
+
+**Yuru Camp**: Binged S1 and S2 right before S3 began. Season 1 and 2 are incredible, but season 3 feels wrong for some reason. The animation studio change slightly negatively affected quality, but the pacing for the whole season just felt long. While season 1 and 2 give a ton of room to breathe, season 3 drags thing far too long, except the final episode, which felt slightly rushed yet a breath of fresh air after the sluggish pace.
+
+**Konosuba S3**: After the movie, Konosuba's quality skyrocketed. This season is the best so far. Not much else to say consistently hilarious and well written.
+
 **Komi Can't Communicate S2**: _Much_ better than season 1. Not only is the romance moving forward, but the cast of characters is becoming genuinely interesting and breaking past stereotypes. The humour is also steadily improving, with the last few episodes being genuinely hilarious. I do wish they didn't do the narrator spiel about communication disorders in the beginning; yes, yes, we get it.
 
-**Madoka Magica**: Peak is peak, what can I say? Please _DO NOT_ watch the 1st and 2nd movie. Watch the anime instead.
+**Urusei Yatusra S2**: This show is just a really fun time. The ending itself had practically no closure as the only thing it resulted in was a slight change in the relationship for the better, but it's still the same scenario. Almost all the characters have pairings, but only one of them is actually official. The rest are just "oh, they'll probably get together eventually." For a Romcom, not the ending I was hoping for. Give me closure, please.
 
 **Wotakoi**: Cute and well done, but there's not much plot. More episodic in nature, and the story isn't moving towards an objective. If you like cute romance, this good. If you look good story, this is not that.
 
