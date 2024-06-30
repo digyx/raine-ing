@@ -42,7 +42,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 ## The List<sup>TM</sup>
 
 | Name                                               | Rating | Status              |
-| -------------------------------------------------- | ------ | ------------------- |
+|----------------------------------------------------|--------|---------------------|
 | Bocchi the Rock!                                   | 10     | S1                  |
 | Madoka Magica                                      | 10     | S1                  |
 | Your Lie In April                                  | 10     | Complete            |
@@ -63,6 +63,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Undead Girl Murder Farce                           | 9      | S1                  |
 | Full Metal Alchemist Brotherhood                   | 9      | Complete            |
 | The Dangers in My Heart                            | 9      | S1                  |
+| Girls Band Cry                                     | 9      | S1                  |
 | Chainsaw Man                                       | 9      | S1                  |
 | Sono Bisque Doll                                   | 9      | S1                  |
 | Spy x Family                                       | 9      | S1                  |
@@ -92,6 +93,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Hyouka                                             | 7      | S1                  |
 | That Time I Got Reincarnated as a Slime            | 8      | S2                  |
 | Ascendance of a Bookworm                           | 8      | S3                  |
+| Jellyfish Can't Swim in the Night                  | 6      | Complete            |
 | Domestic Girlfriend                                | 6      | S1 (finished manga) |
 | My Happy Marriage                                  | 7      | S1                  |
 | Little Witch Academia                              | 9      | Complete            |
@@ -128,6 +130,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | My Next Life as a Villainous                       | 6      | S1 (S2 out)         |
 | Kubo Won't Let Me Be Invisible                     | 5      | S1                  |
 | Kakegurui                                          | 6      | S2                  |
+| Whisper Me a Love Song                             | 4      | S1                  |
 | The Girl I Like Forgot Her Glasses                 | 5      | S1                  |
 | Do It Yourself!!                                   | 6      | Complete            |
 | Taming the Final Boss, Villainous                  | 4      | Complete            |
@@ -140,19 +143,27 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 
 # Season Recaps
 
+Grouped by the season the season of the anime ended.  Ordered from my favourite to least per season.
+
 ## Spring 2024
+
+**Girls Band Cry**:  LET'S FUCKING GOOOOOO this is what Jellyfish Can't Swim in the Night should have been.  Nina is cringe.  Like _super_ cringe.  You learn to deal with that.  The rest of the characters are _chef's kiss_.  Especially Subaru.  Best girl, hands down.  Anyway, the music slaps, the plot is realistic, and the ending really sets it up for a great season 2.  We're getting a season 2...right...?
+
+**Konosuba S3**: After the movie, Konosuba's quality skyrocketed. This season is the best so far. Not much else to say consistently hilarious and well written.
+
+**Yuru Camp**: Binged S1 and S2 right before S3 began. Season 1 and 2 are incredible, but season 3 feels wrong for some reason. The animation studio change slightly negatively affected quality, but the pacing for the whole season just felt long. While season 1 and 2 give a ton of room to breathe, season 3 drags thing far too long, except the final episode, which felt slightly rushed yet a breath of fresh air after the sluggish pace.
+
+**Urusei Yatusra S2**: This show is just a really fun time. The ending itself had practically no closure as the only thing it resulted in was a slight change in the relationship for the better, but it's still the same scenario. Almost all the characters have pairings, but only one of them is actually official. The rest are just "oh, they'll probably get together eventually." For a Romcom, not the ending I was hoping for. Give me closure, please.
+
+**Jellyfin Can't Swim in the Night**: ...  This had potential then it squandered it.  Redeeming abusive parents?  Check.  Yuri bait?  Check.  Never committing to anything?  Check.  Overnight fame?  Check.  The animation and story felt good, _especally_ the conflict during episode 9, but then episodes 10-12 were so rushed and underwhelming (except our favourite, Nox) that I can't recommend this series.  Eh, at least it looked pretty.
+
+**Whisper Me a Love Song**: Good lord, the production issues were _BAD_, as is evident of the episode 9 and 10 delays then the indefinite delay for episodes 11 and 12.  Let's be real, this probably won't come out and won't redeem the series.  Regarding the actual plot and romance, I'm not sold.  The main romance feels manufactured and while the secondary romance is my type of spicy, the whole situation would be resolved by---say it with me---fucking talking to each other.  Ugh.  It's mid at best and bad at worst.
 
 ### Other Shows
 
 **Madoka Magica**: Peak is peak, what can I say? Please _DO NOT_ watch the 1st and 2nd movie. Watch the anime instead.
 
-**Yuru Camp**: Binged S1 and S2 right before S3 began. Season 1 and 2 are incredible, but season 3 feels wrong for some reason. The animation studio change slightly negatively affected quality, but the pacing for the whole season just felt long. While season 1 and 2 give a ton of room to breathe, season 3 drags thing far too long, except the final episode, which felt slightly rushed yet a breath of fresh air after the sluggish pace.
-
-**Konosuba S3**: After the movie, Konosuba's quality skyrocketed. This season is the best so far. Not much else to say consistently hilarious and well written.
-
 **Komi Can't Communicate S2**: _Much_ better than season 1. Not only is the romance moving forward, but the cast of characters is becoming genuinely interesting and breaking past stereotypes. The humour is also steadily improving, with the last few episodes being genuinely hilarious. I do wish they didn't do the narrator spiel about communication disorders in the beginning; yes, yes, we get it.
-
-**Urusei Yatusra S2**: This show is just a really fun time. The ending itself had practically no closure as the only thing it resulted in was a slight change in the relationship for the better, but it's still the same scenario. Almost all the characters have pairings, but only one of them is actually official. The rest are just "oh, they'll probably get together eventually." For a Romcom, not the ending I was hoping for. Give me closure, please.
 
 **Wotakoi**: Cute and well done, but there's not much plot. More episodic in nature, and the story isn't moving towards an objective. If you like cute romance, this good. If you look good story, this is not that.
 
