@@ -42,7 +42,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 ## The List<sup>TM</sup>
 
 | Name                                               | Rating | Status              |
-|----------------------------------------------------|--------|---------------------|
+| -------------------------------------------------- | ------ | ------------------- |
 | Bocchi the Rock!                                   | 10     | S1                  |
 | Madoka Magica                                      | 10     | S1                  |
 | Your Lie In April                                  | 10     | Complete            |
@@ -54,7 +54,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Summertime Render                                  | 9      | Complete            |
 | Oshi no Ko                                         | 9      | S1                  |
 | Vanitas no Carte                                   | 9      | S1                  |
-| Mushoku Tensei                                     | 9      | S2P1                |
+| Mushoku Tensei                                     | 9      | S2                  |
 | 86                                                 | 9      | S1P2                |
 | Solo Leveling                                      | 9      | S1                  |
 | A Sign of Affection                                | 9      | S1                  |
@@ -143,11 +143,13 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 
 # Season Recaps
 
-Grouped by the season the season of the anime ended.  Ordered from my favourite to least per season.
+Grouped by the season the season of the anime ended. Ordered from my favourite to least per season.
 
 ## Spring 2024
 
-**Girls Band Cry**:  LET'S FUCKING GOOOOOO this is what Jellyfish Can't Swim in the Night should have been.  Nina is cringe.  Like _super_ cringe.  You learn to deal with that.  The rest of the characters are _chef's kiss_.  Especially Subaru.  Best girl, hands down.  Anyway, the music slaps, the plot is realistic, and the ending really sets it up for a great season 2.  We're getting a season 2...right...?
+**Mushoku Tensei S2**: Absolute S-tier if you're willing to look past (or enjoy) the degenerate scenes. The story is less action-packed, but I found myself more invested than in season 1. Incredible show.
+
+**Girls Band Cry**: LET'S FUCKING GOOOOOO this is what Jellyfish Can't Swim in the Night should have been. Nina is cringe. Like _super_ cringe. You learn to deal with that. The rest of the characters are _chef's kiss_. Especially Subaru. Best girl, hands down. Anyway, the music slaps, the plot is realistic, and the ending really sets it up for a great season 2. We're getting a season 2...right...?
 
 **Konosuba S3**: After the movie, Konosuba's quality skyrocketed. This season is the best so far. Not much else to say consistently hilarious and well written.
 
@@ -155,9 +157,9 @@ Grouped by the season the season of the anime ended.  Ordered from my favourite 
 
 **Urusei Yatusra S2**: This show is just a really fun time. The ending itself had practically no closure as the only thing it resulted in was a slight change in the relationship for the better, but it's still the same scenario. Almost all the characters have pairings, but only one of them is actually official. The rest are just "oh, they'll probably get together eventually." For a Romcom, not the ending I was hoping for. Give me closure, please.
 
-**Jellyfin Can't Swim in the Night**: ...  This had potential then it squandered it.  Redeeming abusive parents?  Check.  Yuri bait?  Check.  Never committing to anything?  Check.  Overnight fame?  Check.  The animation and story felt good, _especally_ the conflict during episode 9, but then episodes 10-12 were so rushed and underwhelming (except our favourite, Nox) that I can't recommend this series.  Eh, at least it looked pretty.
+**Jellyfin Can't Swim in the Night**: ... This had potential then it squandered it. Redeeming abusive parents? Check. Yuri bait? Check. Never committing to anything? Check. Overnight fame? Check. The animation and story felt good, _especally_ the conflict during episode 9, but then episodes 10-12 were so rushed and underwhelming (except our favourite, Nox) that I can't recommend this series. Eh, at least it looked pretty.
 
-**Whisper Me a Love Song**: Good lord, the production issues were _BAD_, as is evident of the episode 9 and 10 delays then the indefinite delay for episodes 11 and 12.  Let's be real, this probably won't come out and won't redeem the series.  Regarding the actual plot and romance, I'm not sold.  The main romance feels manufactured and while the secondary romance is my type of spicy, the whole situation would be resolved by---say it with me---fucking talking to each other.  Ugh.  It's mid at best and bad at worst.
+**Whisper Me a Love Song**: Good lord, the production issues were _BAD_, as is evident of the episode 9 and 10 delays then the indefinite delay for episodes 11 and 12. Let's be real, this probably won't come out and won't redeem the series. Regarding the actual plot and romance, I'm not sold. The main romance feels manufactured and while the secondary romance is my type of spicy, the whole situation would be resolved by---say it with me---fucking talking to each other. Ugh. It's mid at best and bad at worst.
 
 ### Other Shows
 
