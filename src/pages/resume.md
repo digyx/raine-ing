@@ -1,6 +1,7 @@
 ---
-layout: ../layouts/ResumeLayout.astro
+layout: ../layouts/PageLayout.astro
 title: "Resume"
+activeNav: "resume"
 ---
 
 ## Professional Experience

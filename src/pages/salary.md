@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/SalaryLayout.astro
+layout: ../layouts/PageLayout.astro
 title: Salary Transparency
 ---
 
