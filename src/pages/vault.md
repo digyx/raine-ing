@@ -16,6 +16,8 @@ These are articles, videos, and other links I value and want to keep easily acce
 
 ## Videos
 
+- [Why AI Is Tech's Latest Hoax -- Modern MBA](https://www.youtube.com/watch?v=pOuBCk8XMC8)
+
 - [CodeAesthetics](https://www.youtube.com/@CodeAesthetic/videos)
   - [Never Nester](https://www.youtube.com/watch?v=CFRhGnuXG-4) -- Early returns.
   - [The Flaws of Inheritance](https://www.youtube.com/watch?v=hxGOiiR9ZKg) -- Composition over inheritance.
