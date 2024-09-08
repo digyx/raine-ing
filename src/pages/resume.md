@@ -6,9 +6,15 @@ activeNav: "resume"
 
 ## Professional Experience
 
+### 1Password
+
+_Cloud Platform Engineer | Starting October, 2024_
+
+Soon.
+
 ### Atlassian
 
-_Site Reliability Engineer | July, 2021 - Present_
+_Site Reliability Engineer | July, 2021 - September, 2024_
 
 As I joined, Bitbucket had recently completed its transition from the datacenter to AWS. Most of my role such far has been migrating self-hosted services such as RabbitMQ to managed solutions like SQS, automating our quarterly compliance testing, and improving the speed, reliability, and developer experience of our deployment pipelines.
 
@@ -24,9 +30,9 @@ _Class of 2021, B.S. in Mathematics_
 
 ## Contact
 
-**Legal Name**: Devon Tingley
+**Internet Name**: Raine Godmaire
 
-**Pseudonym**: Raine Godmaire
+**IRL Name**: Raine Tingley
 
 **Email**: [its@raine.ing](mailto:its@raine.ing)
 
@@ -35,7 +41,7 @@ _Class of 2021, B.S. in Mathematics_
 - [Codeberg](https://codeberg.org/godmaire)
 - [GitHub](https://github.com/digyx)
 - [Fediverse](https://mstdn.social/@godmaire)
-- [LinkedIn](https://www.linkedin.com/in/devon-tingley-232059173/)
+- [LinkedIn](https://www.linkedin.com/in/raine-tingley-232059173/)
 
 ---
 
