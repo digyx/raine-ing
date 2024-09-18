@@ -7,14 +7,15 @@ People get really weird when the topic of money comes up. Rather than trying to 
 
 This idea was inspired by [Xe Iaso](https://xeiaso.net/salary-transparency), who does something very similar.
 
-# Atlassian
-
 Not including stock options, for simplicity's sake.
 
-| Date       | Salary    | Notes                           |
-| ---------- | --------- | ------------------------------- |
-| 2023-10-01 | \$136,000 | Yearly Raise                    |
-| 2023-04-01 | \$131,110 | Promotion, 15% bonus target     |
-| 2022-10-01 | \$117,590 | Yearly Raise                    |
-| 2022-01-01 | \$110,940 | &ldquo;Market Adjustment&rdquo; |
-| 2021-07-19 | \$97,110  | Hired, 10% bonus target         |
+| Date          | Salary   | Reason                      |
+| ------------- | -------- | --------------------------- |
+| **1Password** |          |                             |
+| 2024-10-23    | $152,000 | Hired                       |
+| **Atlassian** |          |                             |
+| 2023-10-01    | $136,000 | Yearly Raise                |
+| 2023-04-01    | $131,110 | Promotion, 15% bonus target |
+| 2022-10-01    | $117,590 | Yearly Raise                |
+| 2022-01-01    | $110,940 | "Market Adjustment"         |
+| 2021-07-19    | $97,110  | Hired, 10% bonus target     |
