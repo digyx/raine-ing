@@ -13,6 +13,7 @@ These are articles, videos, and other links I value and want to keep easily acce
 - [How to Test -- Matklad](https://matklad.github.io/2021/05/31/how-to-test.html) -- Reasonbly good ways to test things.
 - [Maker's Schedule, Managr's Schedule](https://paulgraham.com/makersschedule.html) -- Meetings are disruptive, and managers don't understand that.
 - [Cognitive Load](https://github.com/zakirullin/cognitive-load) -- Keep things simple.
+- [Advantages of incompetent management](https://yosefk.com/blog/advantages-of-incompetent-management.html) -- Not everyone always needs to be doing something.
 
 ## Videos
 
