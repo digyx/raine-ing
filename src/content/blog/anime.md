@@ -2,7 +2,7 @@
 title: Every Anime I've Ever Seen
 description: Ranked and rated.
 pubDatetime: 1970-1-01T00:00:00Z
-modDatetime: 2024-05-15T00:00:00Z
+modDatetime: 2024-09-27T00:00:00Z
 featured: true
 tags:
   - other
@@ -57,6 +57,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Mushoku Tensei                                     | 9      | S2                  |
 | 86                                                 | 9      | S1P2                |
 | Solo Leveling                                      | 9      | S1                  |
+| Alya Sometimes Hides Her Feelings in Russian       | 9      | S1                  |
 | A Sign of Affection                                | 9      | S1                  |
 | Insomniacs After School                            | 9      | S1                  |
 | Mobile Suite Gundam: Witch From Mercury            | 9      | Complete            |
@@ -86,7 +87,8 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Komi-san                                           | 8      | S2                  |
 | Stardust Telepath                                  | 8      | S1                  |
 | Eminence in Shadow                                 | 8      | S2                  |
-| Tomo-Chan is a Girl                                | 8      | S1                  |
+| Senpai is an Otokonoko                             | 8      | S1                  |
+| Tomo-Chan is a Girl                                | 7      | S1                  |
 | Urusei Yatsura                                     | 7      | Complete            |
 | Wotakoi                                            | 7      | S1                  |
 | Horimiya                                           | 8      | Complete            |
@@ -144,6 +146,12 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 # Season Recaps
 
 Grouped by the season the season of the anime ended. Ordered from my favourite to least per season.
+
+## Summer 2024
+
+**Alya Sometimes Hides Her Feelings in Russian**: Top of the class romance. While not the best romance I've ever seen, it's qutie up there. The main pairing has a realistic, compelling dynamic where they are both extremely competent and actually acting like it. The supporting characters feel unique and, while a bit trope-ish, are able to make themselves feel like distinct characters.
+
+**Senpai is an Otokonoko**: Genuinely shocked that Project 9 could make a good adaptation. While the expression and acceptance of gender queerness varies _wildly_ between cultures, this show feels to be more on the realistic side. _Love Me For Who I Am_ had quite a few similar experiences, so I like to think they both describe the experience in Japan relatively well (assuming not perfect). Defintiely a fun ride with a lot of the slingshotting between genuine joy and absolute despair gender queer people feel depening on who they are with.
 
 ## Spring 2024
 
