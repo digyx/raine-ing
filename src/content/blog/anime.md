@@ -70,7 +70,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Spy x Family                                       | 9      | S1                  |
 | The 100 Girlfriend Who Really<sup>5</sup> Love You | 9      | S1                  |
 | Heavenly Delusion                                  | 9      | S1                  |
-| Konosuba                                           | 7      | S3                  |
+| Konosuba                                           | 8      | S3                  |
 | Hell's Paradise                                    | 8      | S1                  |
 | Houseki No Kuni                                    | 7      | S1                  |
 | Ouran High School Host Club                        | 9      | Complete            |
@@ -88,6 +88,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Stardust Telepath                                  | 8      | S1                  |
 | Eminence in Shadow                                 | 8      | S2                  |
 | Senpai is an Otokonoko                             | 8      | S1                  |
+| Days With My Stepsister                            | 8      | S1                  |
 | Tomo-Chan is a Girl                                | 7      | S1                  |
 | Urusei Yatsura                                     | 7      | Complete            |
 | Wotakoi                                            | 7      | S1                  |
@@ -152,6 +153,8 @@ Grouped by the season the season of the anime ended. Ordered from my favourite t
 **Alya Sometimes Hides Her Feelings in Russian**: Top of the class romance. While not the best romance I've ever seen, it's qutie up there. The main pairing has a realistic, compelling dynamic where they are both extremely competent and actually acting like it. The supporting characters feel unique and, while a bit trope-ish, are able to make themselves feel like distinct characters.
 
 **Senpai is an Otokonoko**: Genuinely shocked that Project 9 could make a good adaptation. While the expression and acceptance of gender queerness varies _wildly_ between cultures, this show feels to be more on the realistic side. _Love Me For Who I Am_ had quite a few similar experiences, so I like to think they both describe the experience in Japan relatively well (assuming not perfect). Defintiely a fun ride with a lot of the slingshotting between genuine joy and absolute despair gender queer people feel depening on who they are with.
+
+**Days With My Stepsister**: Okay...first 10 episodes? Incredible. Very "show, don't tell" and really spent enough time and energy to develop the main pairing. The last two episodes felt quite...forced. Rather than contrive scenarios where the main pairing realizes they can't deny their feelings, they instead each have brand new characters lecture them for a very long time and in a very confusing way. The main pairing is not direct with each other, and that actually makes complete sense in this context, but the breaking point where they could not longer deny their feelings just felt wrong. If it gets a season 2, I'd watch it.
 
 ## Spring 2024
 
