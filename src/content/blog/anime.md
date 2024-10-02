@@ -70,6 +70,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Spy x Family                                       | 9      | S1                  |
 | The 100 Girlfriend Who Really<sup>5</sup> Love You | 9      | S1                  |
 | Heavenly Delusion                                  | 9      | S1                  |
+| Makeine                                            | 8      | S1                  |
 | Konosuba                                           | 8      | S3                  |
 | Hell's Paradise                                    | 8      | S1                  |
 | Houseki No Kuni                                    | 7      | S1                  |
@@ -151,6 +152,8 @@ Grouped by the season the season of the anime ended. Ordered from my favourite t
 ## Summer 2024
 
 **Alya Sometimes Hides Her Feelings in Russian**: Top of the class romance. While not the best romance I've ever seen, it's qutie up there. The main pairing has a realistic, compelling dynamic where they are both extremely competent and actually acting like it. The supporting characters feel unique and, while a bit trope-ish, are able to make themselves feel like distinct characters.
+
+**Makeine**: I have a hatred of incompetent main characters, and this show has one... While the characters were even more unique and dynamic than in Alya, the show just didn't quite speak to me. Yanami best girl, sure, but I found myself frequently forgetting what happened two episodes before, which didn't happen for Alya. Overall, I can see why some people prefer this show, but it didn't hit right for me.
 
 **Senpai is an Otokonoko**: Genuinely shocked that Project 9 could make a good adaptation. While the expression and acceptance of gender queerness varies _wildly_ between cultures, this show feels to be more on the realistic side. _Love Me For Who I Am_ had quite a few similar experiences, so I like to think they both describe the experience in Japan relatively well (assuming not perfect). Defintiely a fun ride with a lot of the slingshotting between genuine joy and absolute despair gender queer people feel depening on who they are with.
 
