@@ -107,7 +107,9 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | I'm in Love With the Villainess                    | 7      | S1                  |
 | Magical Revolution of the Reincarnated Princess    | 7      | S1                  |
 | Don't Mess With Me Miss Nagatoro                   | 7      | S2                  |
+| Vtuber Legend                                      | 6      | S1                  |
 | Flip Flappers                                      | 6      | Complete            |
+| My Deer Friend Nokotan                             | 6      | S1                  |
 | Birdie Wing                                        | 6      | Complete            |
 | Yuri is my Job                                     | 6      | S1                  |
 | Raven of the Inner Palace                          | 7      | S1                  |
@@ -158,6 +160,10 @@ Grouped by the season the season of the anime ended. Ordered from my favourite t
 **Senpai is an Otokonoko**: Genuinely shocked that Project 9 could make a good adaptation. While the expression and acceptance of gender queerness varies _wildly_ between cultures, this show feels to be more on the realistic side. _Love Me For Who I Am_ had quite a few similar experiences, so I like to think they both describe the experience in Japan relatively well (assuming not perfect). Defintiely a fun ride with a lot of the slingshotting between genuine joy and absolute despair gender queer people feel depening on who they are with.
 
 **Days With My Stepsister**: Okay...first 10 episodes? Incredible. Very "show, don't tell" and really spent enough time and energy to develop the main pairing. The last two episodes felt quite...forced. Rather than contrive scenarios where the main pairing realizes they can't deny their feelings, they instead each have brand new characters lecture them for a very long time and in a very confusing way. The main pairing is not direct with each other, and that actually makes complete sense in this context, but the breaking point where they could not longer deny their feelings just felt wrong. If it gets a season 2, I'd watch it.
+
+**Vtuber Legend**: If you've ever gone down the Vtuber rabbithole, you'll like this. If not, it's a gamble. Definitely knows its audience. Enjoyable, but not something I ever prioritized watching.
+
+**My Deer Friend Nokotan**: Made me laugh and really comitted to the bit. Finale was a let down, but the rest was surprisingly good.
 
 ## Spring 2024
 
