@@ -52,10 +52,10 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Re:Zero                                            | 9      | S2                  |
 | Apothecary Diaries                                 | 9      | S1                  |
 | Summertime Render                                  | 9      | Complete            |
-| Oshi no Ko                                         | 9      | S1                  |
 | Vanitas no Carte                                   | 9      | S1                  |
 | Mushoku Tensei                                     | 9      | S2                  |
 | 86                                                 | 9      | S1P2                |
+| Oshi no Ko                                         | 9      | S2                  |
 | Solo Leveling                                      | 9      | S1                  |
 | Alya Sometimes Hides Her Feelings in Russian       | 9      | S1                  |
 | A Sign of Affection                                | 9      | S1                  |
@@ -85,13 +85,14 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Zom 100                                            | 8      | S1                  |
 | Vivy: Fluorite Eye's Song                          | 8      | Complete            |
 | Re:Creators                                        | 8      | Complete            |
-| Komi-san                                           | 8      | S2                  |
-| Stardust Telepath                                  | 8      | S1                  |
+| The Magical Girl and the Evil Lieutenant           | 8      | Complete            |
 | Eminence in Shadow                                 | 8      | S2                  |
 | Senpai is an Otokonoko                             | 8      | S1                  |
 | Days With My Stepsister                            | 8      | S1                  |
+| Komi-san                                           | 7      | S2                  |
 | Tomo-Chan is a Girl                                | 7      | S1                  |
 | Urusei Yatsura                                     | 7      | Complete            |
+| Stardust Telepath                                  | 8      | S1                  |
 | Wotakoi                                            | 7      | S1                  |
 | Horimiya                                           | 8      | Complete            |
 | Hyouka                                             | 7      | S1                  |
@@ -153,9 +154,13 @@ Grouped by the season the season of the anime ended. Ordered from my favourite t
 
 ## Summer 2024
 
+**Oshi no Ko S2**: This is probably tied for the best arc in the entire series. I do think they went a bit too "art house" with some of the scenes (I lost track of what the fuck was going on), but when it hit, it hit _hard_. Overall very happy.
+
 **Alya Sometimes Hides Her Feelings in Russian**: Top of the class romance. While not the best romance I've ever seen, it's qutie up there. The main pairing has a realistic, compelling dynamic where they are both extremely competent and actually acting like it. The supporting characters feel unique and, while a bit trope-ish, are able to make themselves feel like distinct characters.
 
 **Makeine**: I have a hatred of incompetent main characters, and this show has one... While the characters were even more unique and dynamic than in Alya, the show just didn't quite speak to me. Yanami best girl, sure, but I found myself frequently forgetting what happened two episodes before, which didn't happen for Alya. Overall, I can see why some people prefer this show, but it didn't hit right for me.
+
+**The Magical Girl and the Evil Lieutenant Used to be Archenemies**: This show is fully adapted due to the death of the mangaka. It's a shame this story will never continue. If you like adorable romantic relationships, this is a phenomenal show. The episodes are short, the animation is incredible, and I truly love the characters.
 
 **Senpai is an Otokonoko**: Genuinely shocked that Project 9 could make a good adaptation. While the expression and acceptance of gender queerness varies _wildly_ between cultures, this show feels to be more on the realistic side. _Love Me For Who I Am_ had quite a few similar experiences, so I like to think they both describe the experience in Japan relatively well (assuming not perfect). Defintiely a fun ride with a lot of the slingshotting between genuine joy and absolute despair gender queer people feel depening on who they are with.
 
