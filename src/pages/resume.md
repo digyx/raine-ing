@@ -8,9 +8,9 @@ activeNav: "resume"
 
 ### 1Password
 
-_Cloud Platform Engineer | Starting October, 2024_
+_Cloud Platform Engineer | October, 2024 - Present_
 
-Soon.
+TBD.
 
 ### Atlassian
 
