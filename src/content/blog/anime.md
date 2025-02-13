@@ -2,7 +2,7 @@
 title: Every Anime I've Ever Seen
 description: Ranked and rated.
 pubDatetime: 1970-1-01T00:00:00Z
-modDatetime: 2024-09-27T00:00:00Z
+modDatetime: 2025-02-13T00:00:00Z
 featured: true
 tags:
   - other
@@ -47,6 +47,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Madoka Magica                                      | 10     | S1                  |
 | Your Lie In April                                  | 10     | Complete            |
 | Kaguya-Sama                                        | 10     | S3 + Movie          |
+| DAN DA DAN                                         | 10     | S1                  |
 | Frieren                                            | 10     | S1                  |
 | Rascal Does Not Dream of Bunny Girl Senpai         | 9      | S1 + Movie          |
 | Re:Zero                                            | 9      | S2                  |
@@ -88,6 +89,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | The Magical Girl and the Evil Lieutenant           | 8      | Complete            |
 | Eminence in Shadow                                 | 8      | S2                  |
 | Senpai is an Otokonoko                             | 8      | S1                  |
+| Wistoria: Wand and Sword                           | 8      | S1                  |
 | Days With My Stepsister                            | 8      | S1                  |
 | Komi-san                                           | 7      | S2                  |
 | Tomo-Chan is a Girl                                | 7      | S1                  |
@@ -150,25 +152,29 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 
 # Season Recaps
 
-Grouped by the season the season of the anime ended. Ordered from my favourite to least per season.
+Grouped by the season the anime ended. Ordered from my favourite to least per season.
+
+## Fall 2024
+
+**DAN DA DAN**: Fucking peak.
 
 ## Summer 2024
 
 **Oshi no Ko S2**: This is probably tied for the best arc in the entire series. I do think they went a bit too "art house" with some of the scenes (I lost track of what the fuck was going on), but when it hit, it hit _hard_. Overall very happy.
 
-**Alya Sometimes Hides Her Feelings in Russian**: Top of the class romance. While not the best romance I've ever seen, it's qutie up there. The main pairing has a realistic, compelling dynamic where they are both extremely competent and actually acting like it. The supporting characters feel unique and, while a bit trope-ish, are able to make themselves feel like distinct characters.
+**Alya Sometimes Hides Her Feelings in Russian**: Top of the class romance. While not the best romance I've ever seen, it's quite up there. The main pairing has a realistic, compelling dynamic where they are both extremely competent and actually acting like it. The supporting characters feel unique and, while a bit trope-ish, are able to make themselves feel like distinct characters.
 
 **Makeine**: I have a hatred of incompetent main characters, and this show has one... While the characters were even more unique and dynamic than in Alya, the show just didn't quite speak to me. Yanami best girl, sure, but I found myself frequently forgetting what happened two episodes before, which didn't happen for Alya. Overall, I can see why some people prefer this show, but it didn't hit right for me.
 
 **The Magical Girl and the Evil Lieutenant Used to be Archenemies**: This show is fully adapted due to the death of the mangaka. It's a shame this story will never continue. If you like adorable romantic relationships, this is a phenomenal show. The episodes are short, the animation is incredible, and I truly love the characters.
 
-**Senpai is an Otokonoko**: Genuinely shocked that Project 9 could make a good adaptation. While the expression and acceptance of gender queerness varies _wildly_ between cultures, this show feels to be more on the realistic side. _Love Me For Who I Am_ had quite a few similar experiences, so I like to think they both describe the experience in Japan relatively well (assuming not perfect). Defintiely a fun ride with a lot of the slingshotting between genuine joy and absolute despair gender queer people feel depening on who they are with.
+**Senpai is an Otokonoko**: Genuinely shocked that Project 9 could make a good adaptation. While the expression and acceptance of gender queerness varies _wildly_ between cultures, this show feels to be more on the realistic side. _Love Me For Who I Am_ had quite a few similar experiences, so I like to think they both describe the experience in Japan relatively well (assuming not perfect). Definitely a fun ride with a lot of the slingshotting between genuine joy and absolute despair gender queer people feel deepening on who they are with.
 
 **Days With My Stepsister**: Okay...first 10 episodes? Incredible. Very "show, don't tell" and really spent enough time and energy to develop the main pairing. The last two episodes felt quite...forced. Rather than contrive scenarios where the main pairing realizes they can't deny their feelings, they instead each have brand new characters lecture them for a very long time and in a very confusing way. The main pairing is not direct with each other, and that actually makes complete sense in this context, but the breaking point where they could not longer deny their feelings just felt wrong. If it gets a season 2, I'd watch it.
 
 **Vtuber Legend**: If you've ever gone down the Vtuber rabbithole, you'll like this. If not, it's a gamble. Definitely knows its audience. Enjoyable, but not something I ever prioritized watching.
 
-**My Deer Friend Nokotan**: Made me laugh and really comitted to the bit. Finale was a let down, but the rest was surprisingly good.
+**My Deer Friend Nokotan**: Made me laugh and really committed to the bit. Finale was a let down, but the rest was surprisingly good.
 
 ## Spring 2024
 
