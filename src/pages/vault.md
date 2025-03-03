@@ -10,10 +10,11 @@ These are articles, videos, and other links I value and want to keep easily acce
 
 - [Grug](https://grugbrain.dev/) -- Internal dialogue centered around keeping things simple.
 - [Locality of Behaviour](https://htmx.org/essays/locality-of-behaviour/) -- Structuring code to keep related code together. Separation of Concerns' worst enemy.
-- [How to Test -- Matklad](https://matklad.github.io/2021/05/31/how-to-test.html) -- Reasonbly good ways to test things.
+- [How to Test -- Matklad](https://matklad.github.io/2021/05/31/how-to-test.html) -- Reasonably good ways to test things.
 - [Maker's Schedule, Managr's Schedule](https://paulgraham.com/makersschedule.html) -- Meetings are disruptive, and managers don't understand that.
 - [Cognitive Load](https://github.com/zakirullin/cognitive-load) -- Keep things simple.
 - [Advantages of incompetent management](https://yosefk.com/blog/advantages-of-incompetent-management.html) -- Not everyone always needs to be doing something.
+- [Just Use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres) -- Not to mention psql and Postgres's wide datatype support.
 
 ## Videos
 
