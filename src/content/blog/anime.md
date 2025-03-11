@@ -122,7 +122,7 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 | Helck                                              | 6      | S1                  |
 | Onimai                                             | 6      | S1                  |
 | Call of the Night                                  | 6      | S1                  |
-| Danmachi (Light Novel is better)                   | 6      | S4                  |
+| Danmachi (Light Novel is better)                   | 6      | S5                  |
 | Vexations of a Shut In Vampire Princess            | 5      | S1                  |
 | Konosuba: Explosion                                | 6      | S1                  |
 | Demon Slayer                                       | 7      | S1                  |
@@ -153,6 +153,10 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 # Season Recaps
 
 Grouped by the season the anime ended. Ordered from my favourite to least per season.
+
+## Winter 2025
+
+**Danmachi S5**: Episodes 1-9? Absolute cinema. I've truly never enjoyed this show more than these episodes. The focus on interpersonal relationships over spectacle won me over. Episodes 10-15? Fuck, did we really need that??? No. No we did not. While it made sense logically to occur, the execution left a lot to be desired. Danmachi has a general issue of trying to give every character a spotlight and therefore no character actually gets the spotlight. Same issue with other series with a far too large cast.
 
 ## Fall 2024
 
