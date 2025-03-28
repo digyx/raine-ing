@@ -41,114 +41,154 @@ After each season, I'll do a series of mini reviews for all of the anime which f
 
 ## The List<sup>TM</sup>
 
-| Name                                               | Rating | Status              |
-| -------------------------------------------------- | ------ | ------------------- |
-| Bocchi the Rock!                                   | 10     | S1                  |
-| Madoka Magica                                      | 10     | S1                  |
-| Your Lie In April                                  | 10     | Complete            |
-| Kaguya-Sama                                        | 10     | S3 + Movie          |
-| DAN DA DAN                                         | 10     | S1                  |
-| Frieren                                            | 10     | S1                  |
-| Rascal Does Not Dream of Bunny Girl Senpai         | 9      | S1 + Movie          |
-| Re:Zero                                            | 9      | S2                  |
-| Apothecary Diaries                                 | 9      | S1                  |
-| Summertime Render                                  | 9      | Complete            |
-| Vanitas no Carte                                   | 9      | S1                  |
-| Mushoku Tensei                                     | 9      | S2                  |
-| 86                                                 | 9      | S1P2                |
-| Oshi no Ko                                         | 9      | S2                  |
-| Solo Leveling                                      | 9      | S1                  |
-| Alya Sometimes Hides Her Feelings in Russian       | 9      | S1                  |
-| A Sign of Affection                                | 9      | S1                  |
-| Insomniacs After School                            | 9      | S1                  |
-| Mobile Suite Gundam: Witch From Mercury            | 9      | Complete            |
-| Undead Girl Murder Farce                           | 9      | S1                  |
-| Full Metal Alchemist Brotherhood                   | 9      | Complete            |
-| The Dangers in My Heart                            | 9      | S1                  |
-| Girls Band Cry                                     | 9      | S1                  |
-| Chainsaw Man                                       | 9      | S1                  |
-| Sono Bisque Doll                                   | 9      | S1                  |
-| Spy x Family                                       | 9      | S1                  |
-| The 100 Girlfriend Who Really<sup>5</sup> Love You | 9      | S1                  |
-| Heavenly Delusion                                  | 9      | S1                  |
-| Makeine                                            | 8      | S1                  |
-| Konosuba                                           | 8      | S3                  |
-| Hell's Paradise                                    | 8      | S1                  |
-| Houseki No Kuni                                    | 7      | S1                  |
-| Ouran High School Host Club                        | 9      | Complete            |
-| Yuru Camp                                          | 9      | S3                  |
-| Zombieland Saga                                    | 8      | S2                  |
-| Yamada-kun to Lvl 999                              | 8      | S1                  |
-| Skip and Loafer                                    | 8      | S1                  |
-| Blue Period                                        | 8      | S1                  |
-| Soul Eater                                         | 8      | Complete            |
-| Akiba Maid War                                     | 8      | Complete            |
-| Zom 100                                            | 8      | S1                  |
-| Vivy: Fluorite Eye's Song                          | 8      | Complete            |
-| Re:Creators                                        | 8      | Complete            |
-| The Magical Girl and the Evil Lieutenant           | 8      | Complete            |
-| Eminence in Shadow                                 | 8      | S2                  |
-| Senpai is an Otokonoko                             | 8      | S1                  |
-| Wistoria: Wand and Sword                           | 8      | S1                  |
-| Days With My Stepsister                            | 8      | S1                  |
-| Komi-san                                           | 7      | S2                  |
-| Tomo-Chan is a Girl                                | 7      | S1                  |
-| Urusei Yatsura                                     | 7      | Complete            |
-| Stardust Telepath                                  | 8      | S1                  |
-| Wotakoi                                            | 7      | S1                  |
-| Horimiya                                           | 8      | Complete            |
-| Hyouka                                             | 7      | S1                  |
-| That Time I Got Reincarnated as a Slime            | 8      | S2                  |
-| Ascendance of a Bookworm                           | 8      | S3                  |
-| Jellyfish Can't Swim in the Night                  | 6      | Complete            |
-| Domestic Girlfriend                                | 6      | S1 (finished manga) |
-| My Happy Marriage                                  | 7      | S1                  |
-| Little Witch Academia                              | 9      | Complete            |
-| Kill La Kill                                       | 7      | Complete            |
-| 7th Time Loop                                      | 7      | S1                  |
-| Slime Diaries                                      | 8      | S1                  |
-| I'm in Love With the Villainess                    | 7      | S1                  |
-| Magical Revolution of the Reincarnated Princess    | 7      | S1                  |
-| Don't Mess With Me Miss Nagatoro                   | 7      | S2                  |
-| Vtuber Legend                                      | 6      | S1                  |
-| Flip Flappers                                      | 6      | Complete            |
-| My Deer Friend Nokotan                             | 6      | S1                  |
-| Birdie Wing                                        | 6      | Complete            |
-| Yuri is my Job                                     | 6      | S1                  |
-| Raven of the Inner Palace                          | 7      | S1                  |
-| Chained Solider                                    | 6      | S1                  |
-| Gushing Over Magical Girls                         | 6      | S1                  |
-| Tensai Ouji (Genius Prince)                        | 6      | S1                  |
-| Helck                                              | 6      | S1                  |
-| Onimai                                             | 6      | S1                  |
-| Call of the Night                                  | 6      | S1                  |
-| Danmachi (Light Novel is better)                   | 6      | S5                  |
-| Vexations of a Shut In Vampire Princess            | 5      | S1                  |
-| Konosuba: Explosion                                | 6      | S1                  |
-| Demon Slayer                                       | 7      | S1                  |
-| In/Spectre                                         | 6      | S2                  |
-| Tearmoon Empire                                    | 6      | S1                  |
-| The Angel Next Door Spoils Me Rotten               | 6      | S1                  |
-| Princess Connect: Re Dive                          | 7      | Complete            |
-| Shikimori is Not Just a Cutie                      | 6      | S1                  |
-| Goblin Slayer                                      | 5      | S2 + Movie          |
-| Reincarnated as a Sword                            | 5      | S1                  |
-| Misfit of Demon King Academy                       | 6      | S2P1                |
-| Revenger                                           | 6      | Complete            |
-| Higehiro (High School Runaway)                     | 5      | Complete            |
-| My Next Life as a Villainous                       | 6      | S1 (S2 out)         |
-| Kubo Won't Let Me Be Invisible                     | 5      | S1                  |
-| Kakegurui                                          | 6      | S2                  |
-| Whisper Me a Love Song                             | 4      | S1                  |
-| The Girl I Like Forgot Her Glasses                 | 5      | S1                  |
-| Do It Yourself!!                                   | 6      | Complete            |
-| Taming the Final Boss, Villainous                  | 4      | Complete            |
-| Wandering Witch Elaina                             | 4      | S1                  |
-| Gleipnir                                           | 5      | S1                  |
-| High School DxD                                    | 5      | S3 (fuck S4)        |
-| World's Finest Assassin                            | 5      | S1                  |
-| Metallic Rouge                                     | 4      | Complete            |
-| Reborn to Master the Blade                         | 3      | S1                  |
+| Name                                               | Part    | Rating |
+| -------------------------------------------------- | ------- | ------ |
+| Bocchi the Rock!                                   | S1      | 5      |
+| Madoka Magica                                      | S1      | 5      |
+| Your Lie In April                                  | S1      | 5      |
+| Kaguya-Sama                                        | S1      | 4      |
+|                                                    | S2      | 4.5    |
+|                                                    | S3      | 5      |
+|                                                    | Movie   | 4      |
+| DAN DA DAN                                         | S1      | 5      |
+| Frieren                                            | S1      | 5      |
+| Rascal Does Not Dream of Bunny Girl Senpai         | S1      | 4.5    |
+|                                                    | Movie 1 | 5      |
+| Re:Zero                                            | S1      | 4.5    |
+|                                                    | S2      | 5      |
+|                                                    | S3      | 4      |
+| Apothecary Diaries                                 | S1      | 4.5    |
+| Summertime Render                                  | Series  | 4.5    |
+| Vanitas no Carte                                   | S1      | 4.5    |
+| Mushoku Tensei                                     | S1      | 4      |
+|                                                    | S2      | 4.5    |
+| 86                                                 | S1P1    | 5      |
+|                                                    | S1P2    | 4      |
+| Undead Girl Murder Farce                           | S1      | 4      |
+| Mobile Suite Gundam: Witch From Mercury            | Series  | 4      |
+| Houseki No Kuni                                    | S1      | 4      |
+| Oshi no Ko                                         | S1      | 4      |
+|                                                    | S2      | 4.5    |
+| A Sign of Affection                                | S1      | 4      |
+| Akiba Maid War                                     | Series  | 4      |
+| Solo Leveling                                      | S1      | 4      |
+| Alya Sometimes Hides Her Feelings in Russian       | S1      | 4      |
+| Insomniacs After School                            | S1      | 4      |
+| Full Metal Alchemist Brotherhood                   | Series  | 4.5    |
+| Little Witch Academia                              | Series  | 4      |
+| The 100 Girlfriend Who Really<sup>5</sup> Love You | S1      | 4.5    |
+| Heavenly Delusion                                  | S1      | 4      |
+| Kill La Kill                                       | Series  | 4      |
+| The Dangers in My Heart                            | S1      | 4      |
+|                                                    | S2      | 4      |
+| Girls Band Cry                                     | S1      | 4      |
+| Sono Bisque Doll                                   | S1      | 4      |
+| Konosuba                                           | S1      | 3      |
+|                                                    | S2      | 4      |
+|                                                    | Movie 1 | 5      |
+|                                                    | S3      | 4.5    |
+| Ouran High School Host Club                        | S1      | 4      |
+| In/Spectre                                         | S1      | 4      |
+|                                                    | S2      | 4      |
+| Yuru Camp                                          | S1      | 4      |
+|                                                    | S2      | 5      |
+|                                                    | S3      | 3      |
+| Zombieland Saga                                    | S1      | 3.5    |
+|                                                    | S2      | 4.5    |
+| Ascendance of a Bookworm                           | S1      | 4      |
+|                                                    | S2      | 4      |
+|                                                    | S3      | 4      |
+| Yamada-kun to Lvl 999                              | S1      | 4      |
+| Skip and Loafer                                    | S1      | 4      |
+| Blue Period                                        | S1      | 4      |
+| Soul Eater                                         | Series  | 4      |
+| Eminence in Shadow                                 | S1      | 4.5    |
+|                                                    | S2      | 4      |
+| Re:Creators                                        | Series  | 4      |
+| Senpai is an Otokonoko                             | S1      | 4      |
+| Wistoria: Wand and Sword                           | S1      | 4      |
+| Makeine                                            | S1      | 3.5    |
+| Chainsaw Man                                       | S1      | 3.5    |
+| Spy x Family                                       | S1      | 3.5    |
+| Hell's Paradise                                    | S1      | 3.5    |
+| Vivy: Fluorite Eye's Song                          | Series  | 3.5    |
+| The Magical Girl and the Evil Lieutenant           | Series  | 3.5    |
+| Zom 100                                            | S1      | 3      |
+| Days With My Stepsister                            | S1      | 3.5    |
+| Komi-san                                           | S1      | 3      |
+|                                                    | S2      | 4      |
+| 7th Time Loop                                      | S1      | 3.5    |
+| Urusei Yatsura                                     | S1      | 3.5    |
+|                                                    | S2      | 3.5    |
+| Stardust Telepath                                  | S1      | 3.5    |
+| Tomo-Chan is a Girl                                | S1      | 3      |
+| Raven of the Inner Palace                          | S1      | 3.5    |
+| Wotakoi                                            | S1      | 3      |
+| Horimiya                                           | All     | 3      |
+| Hyouka                                             | S1      | 3      |
+| Chained Solider                                    | S1      | 3.5    |
+| That Time I Got Reincarnated as a Slime            | S1      | 4      |
+|                                                    | S2P1    | 4      |
+|                                                    | S2P2    | 2      |
+| Jellyfish Can't Swim in the Night                  | E1-9    | 5      |
+|                                                    | E10-12  | 1.5    |
+| Domestic Girlfriend                                | S1      | 3      |
+| Call of the Night                                  | S1      | 3      |
+| Danmachi (Light Novel is better)                   | S1      | 2      |
+|                                                    | S2      | 2.5    |
+|                                                    | S3      | 3      |
+|                                                    | S4      | 4      |
+|                                                    | S5      | 3.5    |
+| My Happy Marriage                                  | S1      | 3      |
+| Wandering Witch Elaina                             | S1      | 3      |
+| Gleipnir                                           | S1      | 3      |
+| Slime Diaries                                      | S1      | 3      |
+| I'm in Love With the Villainess                    | S1      | 3      |
+| Magical Revolution of the Reincarnated Princess    | S1      | 3      |
+| Don't Mess With Me Miss Nagatoro                   | S1      | 3      |
+|                                                    | S2      | 3.5    |
+| Vtuber Legend                                      | S1      | 3      |
+| Reincarnated as a Sword                            | S1      | 3      |
+| Flip Flappers                                      | Series  | 3      |
+| My Deer Friend Nokotan                             | S1      | 2.5    |
+| Birdie Wing                                        | S1      | 3.5    |
+|                                                    | S2      | 2      |
+| Yuri is my Job                                     | S1      | 3      |
+| Tensai Ouji (Genius Prince)                        | S1      | 3      |
+| Kakegurui                                          | S1      | 3      |
+|                                                    | S2      | 3      |
+| Gushing Over Magical Girls                         | S1      | 2.5    |
+| Helck                                              | S1      | 2.5    |
+| Onimai                                             | S1      | 2.5    |
+| Vexations of a Shut In Vampire Princess            | S1      | 2      |
+| Konosuba: Explosion                                | S1      | 2      |
+| Demon Slayer                                       | S1      | 3      |
+| Princess Connect: Re Dive                          | S1      | 2.5    |
+|                                                    | S2      | 3.5    |
+| The Angel Next Door Spoils Me Rotten               | S1      | 2.5    |
+| Tearmoon Empire                                    | S1      | 2      |
+| Shikimori is Not Just a Cutie                      | S1      | 2.5    |
+| Goblin Slayer                                      | S1      | 3      |
+|                                                    | Movie   | 3.5    |
+|                                                    | S2      | 1.5    |
+| Misfit of Demon King Academy                       | S1      | 4      |
+|                                                    | S2P1    | 2      |
+|                                                    | S2P2    | 1.5    |
+| Revenger                                           | Series  | 2      |
+| Higehiro (High School Runaway)                     | Series  | 2.5    |
+| My Next Life as a Villainous                       | S1      | 2      |
+| Kubo Won't Let Me Be Invisible                     | S1      | 1.5    |
+| High School DxD                                    | S1      | 2      |
+|                                                    | S2      | 2.5    |
+|                                                    | S3      | 3      |
+|                                                    | S4E0    | 0      |
+| World's Finest Assassin                            | S1      | 2      |
+| Do It Yourself!!                                   | S1      | 2      |
+| Whisper Me a Love Song                             | S1      | 2      |
+| The Girl I Like Forgot Her Glasses                 | S1      | 1      |
+| Taming the Final Boss, Villainous                  | Series  | 1.5    |
+| Reborn to Master the Blade                         | S1      | 1      |
+| Metallic Rouge                                     | Series  | 1      |
 
 # Season Recaps
 
